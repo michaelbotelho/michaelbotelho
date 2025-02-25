@@ -1,7 +1,7 @@
 ## Hi 👋 I'm Michael Botelho
 
 # 🎓 About Me:
-I am a recent Computer Science graduate from Western University, passionate about exploring Cloud Infrastructures, designing Secure Networks, and building Robust Applications.<br>
+I'm a recent Computer Science graduate from Western University, passionate about exploring Cloud Infrastructures, designing Secure Networks, and building Robust Applications.<br>
 
 ## 🚀 What I'm Up To
 * 🔏 Studying for CompTIA's Security+ certification<br>
