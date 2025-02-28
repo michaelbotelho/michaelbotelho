@@ -16,5 +16,5 @@ jobs:
         uses: pemtajo/badge-readme@main
         with:
           CREDLY_USER: michael-m-botelho # optional, but default will use the same from github
-          #BADGE_SIZE: the resolution to the badges images # optional, 110x110 default
+          BADGE_SIZE: 90
 
