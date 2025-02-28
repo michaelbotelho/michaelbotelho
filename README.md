@@ -11,6 +11,18 @@ I'm a recent Computer Science graduate from Western University, passionate about
 * 🛒 Building a production-ready eCommerce website using the Django Oscar framework with AWS backend<br>
 
 ## 📑 Credentials
+
+<table border=5>
+  <tr>
+    <td rowspan="3"><img src="https://brand.westernu.ca/assets/img/placeholders/logo-stacked-full.svg" href="resources/ProofOfDegree.pdf" alt="Western University logo" width="100px"/></td>
+  </tr>
+  <tr>
+    <td><strong>Bachelor of Science</strong>, <br> Specialization in Computer Science</td>
+  </tr>
+  <tr>
+  </tr>
+</table>
+
 <!--START_SECTION:badges-->
 [![Certified in Cybersecurity (CC)](https://images.credly.com/size/90x90/images/2030e43f-8003-4d4b-9630-847add403c87/image.png)](http://www.credly.com/badges/a1e3bfeb-32b6-4973-b188-82862fa6cbb0 "Certified in Cybersecurity (CC)")
 [![AWS Knowledge: Cloud Essentials](https://images.credly.com/size/90x90/images/ec621e2a-c8f0-4459-806c-ae11829d372a/image.png)](http://www.credly.com/badges/a1a967e1-5f2e-4892-a06e-fb1bb3a415e9 "AWS Knowledge: Cloud Essentials")
