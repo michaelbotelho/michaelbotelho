@@ -10,6 +10,10 @@ I'm a recent Computer Science graduate from Western University, passionate about
 * 🌐 Practicing Linux and Security skills with [OverTheWire](https://overthewire.org/wargames/)<br>
 * 🛒 Building a production-ready eCommerce website using the Django Oscar framework with AWS backend<br>
 
+## 📑 Credentials
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=flat&logo=linkedin-white&logoColor=white)](https://www.linkedin.com/in/michael-m-botelho)
