@@ -14,7 +14,7 @@ I'm a recent Computer Science graduate from Western University, passionate about
 
 <table border=5>
   <tr>
-    <td rowspan="3"><img src="https://brand.westernu.ca/assets/img/placeholders/logo-stacked-full.svg" href="resources/ProofOfDegree.pdf" alt="Western University logo" width="100px"/></td>
+    <td rowspan="3"><a href="ProofOfDegree(safe).pdf"><img src="https://brand.westernu.ca/assets/img/placeholders/logo-stacked-full.svg" alt="Western University logo" width="100px" unselectable="on"/></a></td>
   </tr>
   <tr>
     <td><strong>Bachelor of Science</strong>, <br> Specialization in Computer Science</td>
@@ -29,6 +29,7 @@ I'm a recent Computer Science graduate from Western University, passionate about
 [![IBM Z Xplore - Advanced](https://images.credly.com/size/90x90/images/9dde9b48-6cec-4bc4-ab33-ffeac5c681c3/image.png)](http://www.credly.com/badges/a637a9d2-0717-44db-88ff-8abac1de78bf "IBM Z Xplore - Advanced")
 [![IBM Z Xplore - Concepts](https://images.credly.com/size/90x90/images/0f3e4162-ab6b-457c-8c0d-835a14680666/image.png)](http://www.credly.com/badges/9217e062-1da8-402d-8015-337340e19b7f "IBM Z Xplore - Concepts")
 <!--END_SECTION:badges-->
+_View all my [badges on Credly](https://www.credly.com/users/michael-m-botelho)_
 
 ## 🌐 Connect With Me
 
