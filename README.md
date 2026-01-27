@@ -26,12 +26,12 @@ I'm a recent Computer Science graduate from Western University, passionate about
   </tr>
 </table>
 
-<!--START_SECTION:badges-->
+<!--START_SECTION:Badges-->
 [![Certified in Cybersecurity (CC)](https://images.credly.com/size/90x90/images/2030e43f-8003-4d4b-9630-847add403c87/image.png)](http://www.credly.com/badges/a1e3bfeb-32b6-4973-b188-82862fa6cbb0 "Certified in Cybersecurity (CC)")
 [![AWS Knowledge: Cloud Essentials](https://images.credly.com/size/90x90/images/ec621e2a-c8f0-4459-806c-ae11829d372a/image.png)](http://www.credly.com/badges/a1a967e1-5f2e-4892-a06e-fb1bb3a415e9 "AWS Knowledge: Cloud Essentials")
 [![IBM Z Xplore - Advanced](https://images.credly.com/size/90x90/images/9dde9b48-6cec-4bc4-ab33-ffeac5c681c3/image.png)](http://www.credly.com/badges/a637a9d2-0717-44db-88ff-8abac1de78bf "IBM Z Xplore - Advanced")
 [![IBM Z Xplore - Concepts](https://images.credly.com/size/90x90/images/0f3e4162-ab6b-457c-8c0d-835a14680666/image.png)](http://www.credly.com/badges/9217e062-1da8-402d-8015-337340e19b7f "IBM Z Xplore - Concepts")
-<!--END_SECTION:badges-->
+<!--END_SECTION:Badges-->
 _View all my [badges on Credly](https://www.credly.com/users/michael-m-botelho)_
 
 ## 🌐 Connect With Me
