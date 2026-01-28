@@ -8,7 +8,7 @@ I'm a recent Computer Science graduate from Western University, passionate about
 
 * 🔏 Studying for CompTIA's Security+ certification<br>
 * 🌐 Practicing Linux and Security skills with [OverTheWire](https://overthewire.org/wargames/)<br>
-* 🛒 Building a production-ready Soap Inventory Management platform using the SvelteKit framework with Rust and SQLite3 backend<br>
+* 🛠️ Building an enterprise-level Fleet and Task Management platform using the Blazor framework with ASP.NET and PostgreSQL backend<br>
 <!--
 * 🛒 Building a production-ready eCommerce website using the Django Oscar framework with AWS backend<br>
 -->
